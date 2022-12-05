@@ -1,0 +1,22 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Introducción}{1}{}%
+\contentsline {subsection}{\numberline {1.0.1}Trasfondo del proyecto}{2}{}%
+\contentsline {subsection}{\numberline {1.0.2}Problema}{2}{}%
+\contentsline {subsection}{\numberline {1.0.3}Objetivo}{3}{}%
+\contentsline {subsubsection}{Objetivos específicos}{3}{}%
+\contentsline {subsubsection}{Objetivos de investigación}{3}{}%
+\contentsline {subsection}{\numberline {1.0.4}Justificación}{4}{}%
+\contentsline {subsection}{\numberline {1.0.5}Metodología }{4}{}%
+\contentsline {subsubsection}{Módulos de la metodología planeados (Ágil)}{5}{}%
+\contentsline {chapter}{\numberline {2}Marco Teórico}{7}{}%
+\contentsline {section}{\numberline {2.1}Estado del arte}{7}{}%
+\contentsline {section}{\numberline {2.2}Delimitación}{10}{}%
+\contentsline {subsection}{\numberline {2.2.1}Espacial}{10}{}%
+\contentsline {section}{\numberline {2.3}Marco teórico}{10}{}%
+\contentsline {subsubsection}{Aplicación Web}{10}{}%
+\contentsline {subsubsection}{Características de aplicaciones web}{10}{}%
+\contentsline {subsubsection}{Entorno de desarrollo}{11}{}%
+\contentsline {chapter}{\numberline {3}Diseño}{13}{}%
+\contentsline {section}{\numberline {3.1}Propuestas para el desarrollo front-end}{13}{}%
+\contentsline {chapter}{Bibliografía}{15}{}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{17}{}%
